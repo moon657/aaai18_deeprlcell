@@ -20,3 +20,5 @@ Pandas, Numpy, Scipy, Matplotlib, json, openAI gym, Tensorflow, keras, seaborn
 
 4. Code results appear in $AAAI_WORK_DIR
    As in step 3, point this to an appropriate location for results to appear on your machine
+
+

@@ -1,0 +1,13 @@
+PPC job queue params - config file
+
+print_mode - conf
+
+continuous_action_mode - conf
+
+reward_params_dict - program
+
+burst_prob_params_dict - conf
+
+state vector bounds - conf
+
+thpt_var - conf file
