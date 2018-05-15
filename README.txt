@@ -22,3 +22,13 @@ Pandas, Numpy, Scipy, Matplotlib, json, openAI gym, Tensorflow, keras, seaborn
    As in step 3, point this to an appropriate location for results to appear on your machine
 
 
+
+# Setup environment variable
+
+Key folders:
+
+1. simulate_env/
+    - agents/ has RL agents including DDPG
+    - simulators/ has the cell sim env
+
+
